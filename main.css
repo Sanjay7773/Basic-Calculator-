@@ -8,3 +8,23 @@ html,body {
     height: 100%;
 
 }
+#h1{
+  text-align: center;
+}
+
+#in1{
+  
+  font-size: 2vw;
+  align-content: center;
+  margin-left: 42vw;
+  margin-top: 1vw;
+
+}
+
+#md{
+  font-size: xx-large;
+  display: flax;
+  margin-left: 50vw;
+  /* background-color: darkgray; */
+  
+}
